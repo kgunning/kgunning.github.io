@@ -6,5 +6,4 @@ description: "<strong>WHEN</strong> <br/>
 Fri, Aug 21, 2020<br/>2:00 PDT<br/><br/>
 
 <strong>WHERE TO WATCH</strong><br/>
-<a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a>
-
+<li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
