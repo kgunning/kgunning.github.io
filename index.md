@@ -1,4 +1,4 @@
-## Kaz Gunning's PhD Defense
+# Safety Critical Bounds for Precise Positioning of Aviation and Autonomy
 
 I'm defending my PhD on Friday!
 
