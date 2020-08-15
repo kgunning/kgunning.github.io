@@ -2,6 +2,7 @@
 
 I'm defending my PhD on Friday!
 
+![defense logo](\KGunning_600x258.png)
 
 ## Details
 Date:
