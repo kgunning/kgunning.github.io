@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Kaz Gunning's PhD Defense]
 
-description: "date: <br/>
-lol
-#markdown test"
+description: "<p><b>WHEN:</b><br/>Fri, Aug 21, 2020<br/>2:00 PDT</p><p><b>WHERE TO WATCH</b><br/><a href="https://google.com">Zoom</a> // <a href="https://youtube.com">YouTube</a></p>"
