@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: [Safety Critical Bounds for Precise Positioning of Aviation and Autonomy]
 description: [Kaz is defending]
 logo: "KGunning_500x500.png"
-show_downloads: "false"
+show_downloads: false
 
